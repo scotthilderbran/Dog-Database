@@ -1,0 +1,14 @@
+832#304#Chief#Charles#charles@gmail.com#02/22/2018#05/22/2018#Retriever
+198#304#Chief#Charles#charles@gmail.com#09/22/2018#09/29/2018#Retriever
+775#811#Carl#Kenny#Kenny@gmail.com#05/22/2019#05/22/2019#Retriever
+871#304#Chief#Charles#charles@gmail.com#02/22/2019#03/22/2019#Retriever
+743#620#Champ#Scott#scott@gmail.com#01/22/2019#02/22/2019#Lab
+746#440#Deon#Scott#scott@gmail.com#05/22/2019#05/22/2019#Husky
+912#811#Carl#Kenny#Kenny@gmail.com#01/22/2019#03/22/2019#Retriever
+241#620#Champ#Scott#scott@gmail.com#01/22/2018#03/22/2019#Lab
+504#304#Chief#Charles#charles@gmail.com#05/22/2019#05/22/2019#Retriever
+281#811#Carl#Kenny#Kenny@gmail.com#08/22/2018#01/22/2019#Retriever
+185#620#Champ#Scott#scott@gmail.com#01/22/2017#02/22/2017#Lab
+732#811#Carl#Kenny#Kenny@gmail.com#05/22/2018#05/22/2017#Retriever
+285#620#Champ#Scott#scott@gmail.com#05/22/2019#05/22/2019#Lab
+1023#440#Deon#Scott#scott@gmail.com#05/23/2019#05/23/2019#Husky

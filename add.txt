@@ -1,0 +1,6 @@
+304#Chief#Retriever#M#8#44#F
+243#Fetch#Lab#M#3#37#T
+184#Ronny#Pitbull#M#18#65#T
+440#Deon#Husky#M#8#55#T
+811#Carl#Retriever#M#8#33#F
+916#Spot#Husky#M#9#31#T

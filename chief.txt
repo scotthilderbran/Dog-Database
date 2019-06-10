@@ -1,0 +1,110 @@
+Dog Breed: Retreiver
+		Year: 2019
+	Month: 01
+			Rental ID: 912
+			Dog Name: Carl
+			Customer Name: Kenny
+			Customer Email: Kenny@gmail.com
+			Rental Date: 01/22/2019
+			Return Date: 03/22/2019
+			Breed: Retriever
+	Month: 02
+			Rental ID: 871
+			Dog Name: Chief
+			Customer Name: Charles
+			Customer Email: charles@gmail.com
+			Rental Date: 02/22/2019
+			Return Date: 03/22/2019
+			Breed: Retreiver
+	Month: 05
+			Rental ID: 775
+			Dog Name: Carl
+			Customer Name: Kenny
+			Customer Email: Kenny@gmail.com
+			Rental Date: 05/22/2019
+			Return Date: 05/22/2019
+			Breed: Retreiver
+			Rental ID: 504
+			Dog Name: Chief
+			Customer Name: Charles
+			Customer Email: charles@gmail.com
+			Rental Date: 05/22/2019
+			Return Date: 05/22/2019
+			Breed: Retreiver
+		Year: 2018
+	Month: 02
+			Rental ID: 832
+			Dog Name: Chief
+			Customer Name: Charles
+			Customer Email: charles@gmail.com
+			Rental Date: 02/22/2018
+			Return Date: 05/22/2018
+			Breed: Retreiver
+	Month: 05
+			Rental ID: 732
+			Dog Name: Carl
+			Customer Name: Kenny
+			Customer Email: Kenny@gmail.com
+			Rental Date: 05/22/2018
+			Return Date: 05/22/2017
+			Breed: Retreiver
+	Month: 08
+			Rental ID: 281
+			Dog Name: Carl
+			Customer Name: Kenny
+			Customer Email: Kenny@gmail.com
+			Rental Date: 08/22/2018
+			Return Date: 01/22/2019
+			Breed: Retreiver
+	Month: 09
+			Rental ID: 198
+			Dog Name: Chief
+			Customer Name: Charles
+			Customer Email: charles@gmail.com
+			Rental Date: 09/22/2018
+			Return Date: 09/29/2018
+			Breed: Retreiver
+-------------------------------------------Dog Breed: Lab
+		Year: 2019
+	Month: 01
+			Rental ID: 743
+			Dog Name: Champ
+			Customer Name: Scott
+			Customer Email: scott@gmail.com
+			Rental Date: 01/22/2019
+			Return Date: 02/22/2019
+			Breed: Lab
+	Month: 05
+			Rental ID: 790
+			Dog Name: Champ
+			Customer Name: Scott
+			Customer Email: scott@gmail.com
+			Rental Date: 05/22/2019
+			Return Date: null
+			Breed: Lab
+			Rental ID: 285
+			Dog Name: Champ
+			Customer Name: Scott
+			Customer Email: scott@gmail.com
+			Rental Date: 05/22/2019
+			Return Date: 05/22/2019
+			Breed: Lab
+		Year: 2018
+	Month: 01
+			Rental ID: 241
+			Dog Name: Champ
+			Customer Name: Scott
+			Customer Email: scott@gmail.com
+			Rental Date: 01/22/2018
+			Return Date: 03/22/2019
+			Breed: Lab
+		Year: 2017
+	Month: 01
+			Rental ID: 185
+			Dog Name: Champ
+			Customer Name: Scott
+			Customer Email: scott@gmail.com
+			Rental Date: 01/22/2017
+			Return Date: 02/22/2017
+			Breed: Lab
+-------------------------------------------

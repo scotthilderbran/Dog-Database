@@ -5,7 +5,7 @@ import java.io.*;
 
 public class FileManage {
 
-    public HashMap<Integer, Dog> loadFile(String path) throws IOException {
+    public HashMap<Integer, Dog> loadFile(String path) throws IOException { // Loads data file of Dogs.txt to HashMap
         HashMap<Integer, Dog> temp = new HashMap<Integer, Dog>();
         FileInputStream fileInput = new FileInputStream(path);
         Scanner scan = new Scanner(fileInput);
@@ -43,7 +43,7 @@ public class FileManage {
         return temp;
     }
 
-    public void writeFile(HashMap<Integer, Dog> map) {
+    public void writeFile(HashMap<Integer, Dog> map) { //Writes the current HashMap of dog Objects to Dogs.txt data file
         try {
             BufferedWriter bwr = new BufferedWriter(new FileWriter("dogs.txt"));
             Set setEntry = map.entrySet();
@@ -58,7 +58,7 @@ public class FileManage {
         }
     }
 
-    public void writeTransactions(HashMap<Integer, Transactions> map, String path) {
+    public void writeTransactions(HashMap<Integer, Transactions> map, String path) { //Writes current HashMap of Transactions to transactions.txt file
         try {
             BufferedWriter bwr = new BufferedWriter(new FileWriter(path));
             Set setEntry = map.entrySet();
@@ -73,7 +73,7 @@ public class FileManage {
         }
     }
 
-    public HashMap<Integer, Transactions> loadTransactions(String path) throws IOException {
+    public HashMap<Integer, Transactions> loadTransactions(String path) throws IOException { //Loads Transactions.txt into a HashMap of Transaction Objects
         HashMap<Integer, Transactions> temp = new HashMap<Integer, Transactions>();
         FileInputStream fileInput = new FileInputStream(path);
         Scanner scan = new Scanner(fileInput);
@@ -101,7 +101,7 @@ public class FileManage {
         return temp;
     }
 
-    public HashMap<Integer, Dog> mergeData(String path, HashMap<Integer, Dog> dogHashMap) throws IOException {
+    public HashMap<Integer, Dog> mergeData(String path, HashMap<Integer, Dog> dogHashMap) throws IOException { //Implements Merge function replacing data in DogHashmap with any non Empty fields in add.txt
         FileManage loader = new FileManage();
         HashMap<Integer, Dog> temp = new HashMap<Integer, Dog>();
         temp = loader.loadFile(path);

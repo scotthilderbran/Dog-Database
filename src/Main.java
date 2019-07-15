@@ -317,7 +317,7 @@ public class Main {
         System.out.println("------");
     }
 
-    public void dogsForRent(HashMap<Integer,Dog> map) {
+    public void dogsForRent(HashMap<Integer,Dog> map) { // Prints available dogs for rent based on rental marker property
         Set setEntry = map.entrySet();
         Iterator iteration = setEntry.iterator();
         while (iteration.hasNext()) {
@@ -419,7 +419,7 @@ public class Main {
         return output;
     }
 
-    public String stringInputVerification(String firstOption, String secondOption, String prompt){
+    public String stringInputVerification(String firstOption, String secondOption, String prompt){ // Verifies user input equals one of two options
         Scanner verifyIn = new Scanner(System.in);
         boolean verifyRun = true;
         String output = "";
@@ -436,7 +436,7 @@ public class Main {
         return output;
     }
 
-    public void printHistoricalReport(Map<String,List<Transactions>> map){ // Prints lines of historical reports
+    public void printHistoricalReport(Map<String,List<Transactions>> map){ // Prints lines of historical reports to console
 
         for (Map.Entry<String, List<Transactions>> entry : map.entrySet()) {
             String key = entry.getKey();
@@ -449,7 +449,7 @@ public class Main {
         }
     }
 
-    public void printBreedReport(Map<String,Map<String, Map<String,List<Transactions>>>> map) {
+    public void printBreedReport(Map<String,Map<String, Map<String,List<Transactions>>>> map) { // Prints lines of breed report to console
         Set setEntry = map.entrySet();
         Iterator iteration = setEntry.iterator();
         while (iteration.hasNext()) {

@@ -1,3 +1,4 @@
+# Dog Rental Management System
 <p>This is a practice project of for dog rental business database system.</p>
 <p>The text based system manages a database of dogs, dog rentals, and historcal transactions.</p>
 <em>Features</em>

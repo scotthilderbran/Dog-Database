@@ -1,6 +1,7 @@
 <p>This is a practice project of for dog rental business database system.</p>
 <p>The text based system manages a database of dogs, dog rentals, and historcal transactions.</p>
-**Features**
+<em>Features</em>
+<p></p>
 
 * View/Add/Edit/Delete current dogs
 * Dog rentals/returns
